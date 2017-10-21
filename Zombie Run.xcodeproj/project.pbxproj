@@ -7,13 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		65180F071F52376100C13AB3 /* itemRecognise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65180F061F52376100C13AB3 /* itemRecognise.swift */; };
 		65180F091F5243D500C13AB3 /* Shake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65180F081F5243D500C13AB3 /* Shake.swift */; };
 		65180F0C1F524AF600C13AB3 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65180F0B1F524AF600C13AB3 /* CoreLocation.framework */; };
 		65180F0E1F524F6900C13AB3 /* drawMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65180F0D1F524F6900C13AB3 /* drawMap.swift */; };
 		65180F121F5398D700C13AB3 /* Pulsing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65180F111F5398D700C13AB3 /* Pulsing.swift */; };
+		6532EE1A1F9B7CDD00FF5F04 /* Backpack4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6532EE161F9B7CDD00FF5F04 /* Backpack4ViewController.swift */; };
+		6532EE1B1F9B7CDD00FF5F04 /* Intro2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6532EE171F9B7CDD00FF5F04 /* Intro2ViewController.swift */; };
+		6532EE1C1F9B7CDD00FF5F04 /* itemRecognise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6532EE181F9B7CDD00FF5F04 /* itemRecognise.swift */; };
+		6532EE1D1F9B7CDD00FF5F04 /* ShakeDevice6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6532EE191F9B7CDD00FF5F04 /* ShakeDevice6ViewController.swift */; };
 		653D884C1F672A6C002EDCB3 /* itemsInBox5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653D884B1F672A6C002EDCB3 /* itemsInBox5ViewController.swift */; };
-		653E78381F6ADF9E00FA3D3E /* ShakeDevice6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653E78371F6ADF9E00FA3D3E /* ShakeDevice6ViewController.swift */; };
 		653E783C1F6B576A00FA3D3E /* Settings7ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653E783B1F6B576A00FA3D3E /* Settings7ViewController.swift */; };
 		653E78481F6C706400FA3D3E /* Killed8ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653E78471F6C706400FA3D3E /* Killed8ViewController.swift */; };
 		653E78981F796D4000FA3D3E /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 653E78531F79685900FA3D3E /* Model.xcdatamodeld */; };
@@ -40,19 +42,19 @@
 		657C5F701F2F29A200C29AAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 657C5F6E1F2F29A200C29AAC /* Main.storyboard */; };
 		657C5F721F2F29A200C29AAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 657C5F711F2F29A200C29AAC /* Assets.xcassets */; };
 		657C5F751F2F29A200C29AAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 657C5F731F2F29A200C29AAC /* LaunchScreen.storyboard */; };
-		657C5F7F1F2F2D4A00C29AAC /* Intro2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C5F7E1F2F2D4A00C29AAC /* Intro2ViewController.swift */; };
 		659937941F32081800E8A37E /* Game3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659937931F32081800E8A37E /* Game3ViewController.swift */; };
-		659937B41F3929FF00E8A37E /* Backpack4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659937B31F3929FF00E8A37E /* Backpack4ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		65180F061F52376100C13AB3 /* itemRecognise.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = itemRecognise.swift; path = ../itemRecognise.swift; sourceTree = "<group>"; };
 		65180F081F5243D500C13AB3 /* Shake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shake.swift; sourceTree = "<group>"; };
 		65180F0B1F524AF600C13AB3 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		65180F0D1F524F6900C13AB3 /* drawMap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = drawMap.swift; sourceTree = "<group>"; };
 		65180F111F5398D700C13AB3 /* Pulsing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pulsing.swift; sourceTree = "<group>"; };
+		6532EE161F9B7CDD00FF5F04 /* Backpack4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Backpack4ViewController.swift; sourceTree = "<group>"; };
+		6532EE171F9B7CDD00FF5F04 /* Intro2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Intro2ViewController.swift; sourceTree = "<group>"; };
+		6532EE181F9B7CDD00FF5F04 /* itemRecognise.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = itemRecognise.swift; sourceTree = "<group>"; };
+		6532EE191F9B7CDD00FF5F04 /* ShakeDevice6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShakeDevice6ViewController.swift; sourceTree = "<group>"; };
 		653D884B1F672A6C002EDCB3 /* itemsInBox5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = itemsInBox5ViewController.swift; sourceTree = "<group>"; };
-		653E78371F6ADF9E00FA3D3E /* ShakeDevice6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ShakeDevice6ViewController.swift; path = ../ShakeDevice6ViewController.swift; sourceTree = "<group>"; };
 		653E783B1F6B576A00FA3D3E /* Settings7ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings7ViewController.swift; sourceTree = "<group>"; };
 		653E78471F6C706400FA3D3E /* Killed8ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Killed8ViewController.swift; sourceTree = "<group>"; };
 		653E78541F79685900FA3D3E /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
@@ -82,9 +84,7 @@
 		657C5F711F2F29A200C29AAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		657C5F741F2F29A200C29AAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		657C5F761F2F29A200C29AAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		657C5F7E1F2F2D4A00C29AAC /* Intro2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Intro2ViewController.swift; path = ../Intro2ViewController.swift; sourceTree = "<group>"; };
 		659937931F32081800E8A37E /* Game3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game3ViewController.swift; sourceTree = "<group>"; };
-		659937B31F3929FF00E8A37E /* Backpack4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Backpack4ViewController.swift; path = ../Backpack4ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,17 +130,17 @@
 			children = (
 				657C5F6A1F2F29A200C29AAC /* AppDelegate.swift */,
 				657C5F6C1F2F29A200C29AAC /* ViewController.swift */,
-				657C5F7E1F2F2D4A00C29AAC /* Intro2ViewController.swift */,
+				6532EE171F9B7CDD00FF5F04 /* Intro2ViewController.swift */,
 				659937931F32081800E8A37E /* Game3ViewController.swift */,
-				659937B31F3929FF00E8A37E /* Backpack4ViewController.swift */,
+				6532EE161F9B7CDD00FF5F04 /* Backpack4ViewController.swift */,
 				657ACDED1F7D6BD900847E24 /* backpackMemory.swift */,
 				653D884B1F672A6C002EDCB3 /* itemsInBox5ViewController.swift */,
-				653E78371F6ADF9E00FA3D3E /* ShakeDevice6ViewController.swift */,
+				6532EE191F9B7CDD00FF5F04 /* ShakeDevice6ViewController.swift */,
 				653E783B1F6B576A00FA3D3E /* Settings7ViewController.swift */,
 				653E78471F6C706400FA3D3E /* Killed8ViewController.swift */,
 				657ACE1F1F98227500847E24 /* VictoryViewController.swift */,
 				65180F0D1F524F6900C13AB3 /* drawMap.swift */,
-				65180F061F52376100C13AB3 /* itemRecognise.swift */,
+				6532EE181F9B7CDD00FF5F04 /* itemRecognise.swift */,
 				657ACE1D1F95442000847E24 /* player.swift */,
 				65180F081F5243D500C13AB3 /* Shake.swift */,
 				65180F111F5398D700C13AB3 /* Pulsing.swift */,
@@ -260,18 +260,18 @@
 				659937941F32081800E8A37E /* Game3ViewController.swift in Sources */,
 				65180F121F5398D700C13AB3 /* Pulsing.swift in Sources */,
 				653E78981F796D4000FA3D3E /* Model.xcdatamodeld in Sources */,
+				6532EE1D1F9B7CDD00FF5F04 /* ShakeDevice6ViewController.swift in Sources */,
+				6532EE1C1F9B7CDD00FF5F04 /* itemRecognise.swift in Sources */,
 				657ACE201F98227500847E24 /* VictoryViewController.swift in Sources */,
 				657ACE1E1F95442000847E24 /* player.swift in Sources */,
-				659937B41F3929FF00E8A37E /* Backpack4ViewController.swift in Sources */,
-				653E78381F6ADF9E00FA3D3E /* ShakeDevice6ViewController.swift in Sources */,
-				65180F071F52376100C13AB3 /* itemRecognise.swift in Sources */,
+				6532EE1B1F9B7CDD00FF5F04 /* Intro2ViewController.swift in Sources */,
+				6532EE1A1F9B7CDD00FF5F04 /* Backpack4ViewController.swift in Sources */,
 				65180F091F5243D500C13AB3 /* Shake.swift in Sources */,
 				653E78481F6C706400FA3D3E /* Killed8ViewController.swift in Sources */,
 				65180F0E1F524F6900C13AB3 /* drawMap.swift in Sources */,
 				657C5F6D1F2F29A200C29AAC /* ViewController.swift in Sources */,
 				657C5F6B1F2F29A200C29AAC /* AppDelegate.swift in Sources */,
 				657ACDEE1F7D6BD900847E24 /* backpackMemory.swift in Sources */,
-				657C5F7F1F2F2D4A00C29AAC /* Intro2ViewController.swift in Sources */,
 				653E783C1F6B576A00FA3D3E /* Settings7ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
